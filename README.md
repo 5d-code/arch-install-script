@@ -2,5 +2,5 @@
 making ts because archinstall doesnt work
 
 ```
-curl -L bit.ly/archinstallsh | python3
+curl -sL bit.ly/archinstallsh | python3
 ```
